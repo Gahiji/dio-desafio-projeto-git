@@ -1,0 +1,6 @@
+Anotações curso Carrefour Web Developer
+Conhecimentos a serem adquiridos:
+- CSS3 e HTML
+- Javascript
+- ReactJS
+- Java e Springboot
